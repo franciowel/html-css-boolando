@@ -191,16 +191,25 @@ footer{
     align-self: center;
 }
 
+.info-azienda h4{
+    margin-bottom: 5px;
+}
+
+.social-titile{
+    font-weight: 600;
+}
+
 .social-azienda{
     align-self: center;
 }
 
 .info-azienda li{
-    padding: 0 10px;
-    font-size: 18px;
+    padding-right: 7px;
+    font-size: 14px;
 }
 
 .social-azienda li{
-    padding: 0 10px;
-    font-size: 18px;
+    margin-top: 5px;
+    padding-right: 7px;
+    font-size: 20px;
 }
