@@ -80,6 +80,7 @@ header{
 /* MAIN */
 .catalogo{
     margin-top: 120px;
+    margin-bottom: 40px;
     width: 100%;
     flex-wrap: wrap;
 }
@@ -171,4 +172,35 @@ header{
     font-weight: 200;
     color: black;
     text-decoration: line-through;
+}
+
+/* FOOTER */
+footer{
+    background-color: black;
+    color: white;
+}
+
+.foot{
+    height: 100px;
+    width: 100%;   
+    justify-content: space-between;
+
+}
+
+.info-azienda{
+    align-self: center;
+}
+
+.social-azienda{
+    align-self: center;
+}
+
+.info-azienda li{
+    padding: 0 10px;
+    font-size: 18px;
+}
+
+.social-azienda li{
+    padding: 0 10px;
+    font-size: 18px;
 }
